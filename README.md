@@ -35,10 +35,6 @@ Contribute at will
 
 N/A
 
-## Screenshot
-
-![Daily Planner](./images/demo.PNG)
-
 ## Questions
 
 If you have any questions, please contact me via [email](vinnycar0923@gmail.com) or on [Github](http://github.com/vcaruso0923).

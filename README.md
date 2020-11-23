@@ -6,6 +6,8 @@ A sample blog website where users can view posts and their comments. When logged
 ## Live Application
 https://fathomless-citadel-46115.herokuapp.com/
 
+![justechnews](https://user-images.githubusercontent.com/62676730/100019729-67cf1880-2d93-11eb-8a3f-6796706e6dd7.PNG)
+
 ## Table of Contents
 
 * [Installation](#installation)
